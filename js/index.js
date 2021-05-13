@@ -1,10 +1,10 @@
 
-let startLift = -86;
-let endLift = -86;
+let startLift = -80;
+let endLift = -80;
 let id = null;
-let stopVar = -86;
+let stopVar = -80;
 
-let array = [-86, 24, 134, 244, 354];
+let array = [-80, 18, 128, 238, 348];
 
 let buttonEvent = document.querySelectorAll('.btn');
 
