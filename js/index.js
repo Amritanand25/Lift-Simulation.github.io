@@ -4,7 +4,7 @@ let endLift = 10;
 let id = null;
 let stopVar = 10;
 
-let array = [10, 120, 230, 340, 450];
+let array = [10, 122, 233, 344, 455];
 
 let buttonEvent = document.querySelectorAll('.btn');
 
