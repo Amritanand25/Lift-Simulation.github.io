@@ -1,10 +1,10 @@
 
-let startLift = 0;
-let endLift = 0;
+let startLift = 5;
+let endLift = 5;
 let id = null;
-let stopVar = 0;
+let stopVar = 5;
 
-let array = [0, 110, 220, 330, 440];
+let array = [5, 115, 225, 335, 445];
 
 let buttonEvent = document.querySelectorAll('.btn');
 
